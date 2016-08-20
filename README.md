@@ -1,4 +1,3 @@
-# Test
 #HelloWorld
 public void HelloWorld()
 {
